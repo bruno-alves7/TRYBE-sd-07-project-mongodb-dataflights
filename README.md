@@ -80,7 +80,7 @@ Nesse projeto você vai elaborar _queries_ em `mongo` para:
 
   - Projeto individual.
   - Será um dia de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Data de entrega para avaliação final do projeto: `18/03/2021 - 14:00h`.
 
 ---
 
@@ -89,9 +89,9 @@ Nesse projeto você vai elaborar _queries_ em `mongo` para:
 ### ANTES DE COMEÇAR A DESENVOLVER
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-0x-project-mongodb-dataflights.git`.
+  * `git clone https://github.com/tryber/sd-07-project-mongodb-dataflights.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-project-mongodb-dataflights`
+    * `cd sd-07-project-mongodb-dataflights`
 
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
