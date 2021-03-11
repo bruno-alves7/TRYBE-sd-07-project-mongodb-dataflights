@@ -89,7 +89,7 @@ Nesse projeto você vai elaborar _queries_ em `mongo` para:
 ### ANTES DE COMEÇAR A DESENVOLVER
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-07-project-mongodb-dataflights.git`.
+  * `git clone https://github.com/tryber/sd-07-mongodb-dataflights.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-07-project-mongodb-dataflights`
 
@@ -215,7 +215,7 @@ Esse script passará por **todos os desafios** e imprimirá um relatório indica
 
 Durante a execução do projeto, utilize _queries_ do mongo para retornar os valores pedidos nos requisitos.
 
-Você deve criar uma pasta chamada `challenges`, contendo dentro dela arquivos no formato `desafioX.js` onde `X` é o número do requisito.
+Você deve criar uma pasta na raíz do projeto chamada `challenges`, contendo dentro dela arquivos no formato `desafioX.js` onde `X` é o número do requisito.
 
 Dentro dos arquivos `desafioX.js`, **crie uma query** ou mais (se necessário), para retornar o que o requisito pede. 
 
