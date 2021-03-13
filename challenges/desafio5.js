@@ -6,5 +6,5 @@ db.getCollection("voos")
       _id: 0,
     },
   )
-  .limit(2)
-  .skip(10);
+  .limit(3)
+  .skip(9);
