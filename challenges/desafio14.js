@@ -1,3 +1,3 @@
 db.getCollection("voos").count({
-  "aeroportoDestino.pais": { $ne: "BRASIL" },
+  "aeroportoOrigem.pais": { $ne: "BRASIL" },
 });
